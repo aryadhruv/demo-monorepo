@@ -1,12 +1,17 @@
 [tool.poetry]
-name = "questionai"
-version = "0.1.0"
+name = "chatai"
+version = "0.0.1"
 description = ""
 authors = ["dhruv <dhruv166arya@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+fastapi = "^0.115.8"
+uvicorn = "^0.34.0"
+openai = "^1.61.1"
+python-dotenv = "^1.0.1"
+requests = "^2.32.3"
 
 
 [build-system]
