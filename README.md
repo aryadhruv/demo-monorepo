@@ -9,6 +9,11 @@ Forked from [Vercel AI Python SDK](https://github.com/vercel-labs/ai-sdk-preview
 
 ---
 
+## Preview - 
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/c215ddaa-7e26-4a0e-a56f-c066eae8dd6e" />
+
+## Plans
+Vercel provide a very powerful SDK, but demo is quite vanilla. My plans for this repo is to build all much desired features in for an complete ready to use tool. Features like - injecting dynamic convo starters, mode change, labelling, auth and others.
 
 ## Prerequisites
 
