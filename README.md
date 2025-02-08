@@ -1,6 +1,12 @@
 # demo-monorepo
 Let's play with frontend for Chatbot UI
 
+Here's a haiku about frontend development:
+
+Lines of code dance light,
+Colors weave the screen's delight,
+User's joy in sight.
+
 # 
 
 Welcome to the project! This repository is part of a monorepo that includes both the frontend and backend of the application. Below you’ll find instructions on setting up, running, and building the application, as well as an overview of the technology stack.
